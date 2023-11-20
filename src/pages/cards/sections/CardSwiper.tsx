@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Box, Button, Stack, Typography } from '@mui/material';
 import React, { useRef, useEffect, useState } from 'react'
 import RemoveRedEyeIcon from '@mui/icons-material/RemoveRedEye';

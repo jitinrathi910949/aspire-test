@@ -6,7 +6,7 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 
-export default function ConfirmationDialog({open, handleClose, onAgree}) {
+export default function ConfirmationDialog({open, handleClose, onAgree}: {open: boolean; handleClose: any; onAgree: any}) {
 
 
   return (
